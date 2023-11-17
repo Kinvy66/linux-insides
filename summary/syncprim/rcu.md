@@ -1,4 +1,4 @@
-# README
+# RCU
 
 ## linux-insides
 
@@ -71,7 +71,7 @@ Feel free to create issues or pull-requests if you have any problems.
 
 **Please read** [**CONTRIBUTING.md**](https://github.com/0xAX/linux-insides/blob/master/CONTRIBUTING.md) **before pushing any changes.**
 
-![linux-kernel](.gitbook/assets/linux-kernel.png)
+![linux-kernel](../../.gitbook/assets/linux-kernel.png)
 
 ### Author
 
