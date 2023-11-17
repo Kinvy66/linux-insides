@@ -1,8 +1,14 @@
-# README
+# 简介
+
+## #译注
+
+
 
 ## linux-insides
 
 A book-in-progress about the linux kernel and its insides.
+
+一本关于linux内核以及内部原理的书（book-in-progress）。
 
 **The goal is simple** - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter. Feel free to go through the book [Start here](https://github.com/0xAX/linux-insides/blob/master/SUMMARY.md)
 
